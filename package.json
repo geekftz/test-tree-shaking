@@ -1,0 +1,23 @@
+{
+  "name": "webpack-optimize",
+  "version": "1.0.0",
+  "description": "do sth optimize in webpack4.0+",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackftz/webpack-optimize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackftz/webpack-optimize/issues"
+  },
+  "homepage": "https://github.com/hackftz/webpack-optimize#readme",
+  "sideEffects": [
+    "./src/math.js"
+  ]
+}
